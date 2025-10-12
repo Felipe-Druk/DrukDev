@@ -1,1 +1,13 @@
 **/*.out
+
+
+# Archivos de caché y compilados de Python
+__pycache__/
+
+# Archivos de bytes compilados
+*.pyc
+*.pyo
+
+# IDEs y otros archivos comunes gener
+.idea/             # Para PyCharm/IntelliJ
+.vscode/           # Para VS Code
